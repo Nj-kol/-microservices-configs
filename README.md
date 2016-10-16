@@ -1,2 +1,2 @@
-# -microservices-configs
+# microservices-configs
 A repository containing application properties
